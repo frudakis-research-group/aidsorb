@@ -6,9 +6,11 @@
   </picture>
 </h1>
 
+<!---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&height=40&lines=%F0%9F%9A%80+Simple%2C+easy+to+use+and+reproduce;%F0%9F%94%A5+Supports+PyTorch;%E2%9A%A1+Supports+PyTorch+Lightning;%F0%9F%8E%89+A+.yaml+is+all+you+need!" />
 </p>
+--->
 
 <h4 align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python%203.11%2B-black?style=for-the-badge&logo=python&logoColor=cyan&link=https%3A%2F%2Fwww.python.org%2Fdownloads%2F">
@@ -36,6 +38,7 @@ This package aims to provide a **simple, easy-to-use and reproduce** interface f
 > 
 > For the official 👉 https://github.com/adosar/aidsorb.
 
+<!---
 <p align="center">
   <img alt="IRMOF-1" src="https://raw.githubusercontent.com/adosar/aidsorb/master/docs/source/images/IRMOF-1.gif" width="25%"/>
   <img alt="Cu-BTC" src="https://raw.githubusercontent.com/adosar/aidsorb/master/docs/source/images/Cu-BTC.gif" width="25%"/>
@@ -101,3 +104,4 @@ If you use **AIdsorb** in your research, please consider citing the following wo
 
 ## ⚖️ License
 **AIdosrb** is released under the [GNU General Public License v3.0 only](https://spdx.org/licenses/GPL-3.0-only.html).
+--->
